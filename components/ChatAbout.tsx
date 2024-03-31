@@ -6,8 +6,7 @@ export default function ChatAbout() {
 			<div className="text-center space-y-5">
 				<h1 className="text-3xl font-bold">Welcome to Daily Chat</h1>
 				<p className="w-96">
-					This is a chat application that powered by Supabase realtime
-					DB. Login to send message
+					This is a chat application that works in real time! Login to check it out🐱
 				</p>
 			</div>
 		</div>
